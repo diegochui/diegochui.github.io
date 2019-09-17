@@ -4,8 +4,8 @@ email: diegochui96@gmail.com
 url: https://diegochui.github.io
 description: "4th Year Business and Computer Science student at UBC"
 keywords: "your keywords, separated by commas"
-skills: "Business - Computer Science - Fratboy"
-meta_author: LastName FirstName
+skills: "Business - Computer Science"
+meta_author: Chui Diego
 
 # Google webmaster tools
 google_verify:
@@ -21,7 +21,7 @@ contact: static
 
 # If you use disqus you need disqus shortname
 # https://help.disqus.com/customer/portal/articles/466208
-disqus_shortname: myshortname
+disqus_shortname: diegochui
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
@@ -52,11 +52,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: UBC
+  - line: 2329 West Mall, Vancouver, BC V6T 1Z4
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
